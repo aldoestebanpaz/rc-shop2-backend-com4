@@ -16,7 +16,7 @@ For this project you will need the following
 * [Node.js](https://nodejs.org/en/download/)
 * [npm](https://nodejs.org/en/download/package-manager/)
 
-* [Backend](https://github.com/aldoestebanpaz/rc-shop2-backend-com4)
+* [Frontend](https://github.com/aldoestebanpaz/rc-shop2-frontend-com4.git)
 
 
 ### Installing
@@ -39,11 +39,12 @@ npm install
 
 ### Utilities
 
-You can insert a bunch of items into products collection using the following command 
+You can insert a bulk of items into products collection using the following command 
 
 ```
 npm run insert
 ```
+this will add all the items from [itemsForDb.JSON](utilities/itemsForDB.json) file into Products collection
 
 ## We Used 
 
@@ -58,6 +59,7 @@ npm run insert
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Axios](https://www.npmjs.com/package/axios)
 * [Nodemon](https://nodemon.io/)
+* [SendGrid](https://sendgrid.com/)
 
 
 ## Authors
