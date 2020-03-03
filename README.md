@@ -60,6 +60,7 @@ this will add all the items from [itemsForDb.JSON](utilities/itemsForDB.json) fi
 * [Axios](https://www.npmjs.com/package/axios)
 * [Nodemon](https://nodemon.io/)
 * [SendGrid](https://sendgrid.com/)
+* [Cors](https://www.npmjs.com/package/cors)
 
 
 ## Authors
